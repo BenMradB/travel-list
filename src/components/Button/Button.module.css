@@ -1,0 +1,18 @@
+.btn {
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+.add {
+    padding: 10px 25px;
+    background-color: #76c7ad;
+}
+
+.clear {
+    padding: 10px 20px;
+    background-color: bisque;
+}

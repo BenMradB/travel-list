@@ -1,0 +1,56 @@
+.item {
+    height: 50px;
+    border-radius: 8px;
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    font-size: 25px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.item input {
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.item button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 30px;
+    font-size: 16px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+
+    transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    -moz-transition: 0.2s ease-in-out;
+    -ms-transition: 0.2s ease-in-out;
+    -o-transition: 0.2s ease-in-out;
+}
+
+.item button:hover {
+    background-color: rgba(0, 0, 0, 0.166);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.item span {
+    color: bisque;
+}
+
+.item .itemPacked {
+    text-decoration: line-through;
+    color: bisque;
+}

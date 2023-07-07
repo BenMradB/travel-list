@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+.header {
+    height: 120px;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4a226;
+    font-size: 30px;
+    font-family: Monoton;
+    word-spacing: 30px;
+    text-transform: uppercase;
+    font-family: 'Monoton', cursive;
+}
+
+.header h1 {
+    font-weight: 400;
+}
