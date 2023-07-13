@@ -4,7 +4,7 @@ Welcome to the travel-list repository! This project is a travel list application
 
 ## Cloning the Repository
 
-To clone the "travel-list" repository to your local machine, you can follow these steps:
+To clone and run the "travel-list" repository to your local machine, you can follow these steps:
 
 1. Open your terminal or command line interface.
 
