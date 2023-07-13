@@ -24,4 +24,4 @@ Feel free to explore, make changes, and contribute to the project!
 
 ## License
 
-The "travel-list" repository is licensed under the [MIT License](LICENSE).
+The "travel-list" repository is licensed under the [MIT License](TRAVEL_LIST_LICENSE).
